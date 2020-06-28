@@ -59,12 +59,11 @@ body {
   text-decoration: none;
   color: #fff;
   padding: 10px 5px;
-  transition: 0.7s ease;
+  transition: background-color 0.7s ease;
 }
 
 .btn--hero:hover {
   background-color: #fff;
-  text-decoration: none;
   color: #077187;
 }
 
